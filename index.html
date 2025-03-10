@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rock Paper Scissors - Game</title>
+
+    <!-- StyleSheet -->
+    <link rel="stylesheet" href="style.css">
+
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto+Mono:ital,wght@0,100..700;1,100..700&family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <!-- Navbar / Headline -->
+    <h1>Rock Paper Scissors</h1>
+
+    <!-- Choices -->
+    <div class="choices">
+        <div class="choice" id="Rock">
+            <img src="./Images/rock.png" alt="ROCK">
+        </div>
+        <div class="choice" id="Paper">
+            <img src="./Images/paper.png" alt="ROCK">
+        </div>
+        <div class="choice" id="Scissors">
+            <img src="./Images/scissors.png" alt="ROCK">
+        </div>
+    </div>
+
+    <!-- Score Board -->
+    <div class="scoreBoard">
+        <div class="score">
+            <p id="userScore">0</p>
+            <p>You</p>    
+        </div>
+        <div class="score">
+            <p id="compScore">0</p>
+            <p>Comp</p>    
+        </div>
+    </div>
+
+    <div class="compOption">
+        <p id="compOption"></p>
+    </div>
+
+    <!-- Message Container -->
+    <div class="messageContainer">
+        <p id="msg">Play Your Move</p>
+    </div>
+
+    <!-- Reset -->
+    <button id="reset">Reset Game</button>
+
+    <!-- JavaScript -->
+    <script src="script.js"></script>
+</body>
+</html>
