@@ -32,7 +32,7 @@ rock-paper-scissors/
 ```
 
 ## 📸 Screenshots
-![Game Screenshot]([https://your-image-url.com/screenshot.png](https://drive.google.com/file/d/1TGfWYoTyQ-R8znUTlbYCvgRzBUwhA-Jy/view?usp=drive_link))
+![Game Screenshot](Screenshot.png)
 
 ## 🚀 Future Enhancements
 - 🔊 Add sound effects for a better experience.
