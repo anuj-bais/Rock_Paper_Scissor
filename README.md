@@ -32,6 +32,7 @@ rock-paper-scissors/
 ```
 
 ## 📸 Screenshots
+Here's a preview of the game:
 ![Game Screenshot](Screenshot.png)
 
 ## 🚀 Future Enhancements
