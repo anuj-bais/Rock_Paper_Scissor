@@ -37,6 +37,5 @@ Here's a preview of the game:
 ![Game Screenshot](Screenshot.png)
 
 ## 🚀 Future Enhancements
-- 🔊 Add sound effects for a better experience.
 - 🎞 Improve UI with animations.
 - 👥 Implement a multiplayer mode.
